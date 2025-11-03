@@ -108,3 +108,4 @@ quarkus.datasource.db-kind=postgresql
 ## Help
 
 Improvements are welcome, feel free to contribute.
+
